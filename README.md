@@ -5,8 +5,7 @@ Can do folders of ENC files (.000) and shape files (.shp).
 Can also polygonise BSB (.kap) files.
 
 
-****Usage*
-
+*Usage*
 ```
 NAME:
    S57 parser CLI - A CLI tool for parsing ENC files. Can also polygonise BSB files
