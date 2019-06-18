@@ -1,3 +1,4 @@
+
 NAME:
    S57 parser CLI - A CLI tool for parsing ENC files. Can also polygonise BSB files
 
